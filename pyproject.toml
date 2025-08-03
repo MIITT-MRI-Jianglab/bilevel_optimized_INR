@@ -1,0 +1,16 @@
+# pyproject.toml
+[project]
+name = "bilevel-optimized-inr"
+version = "0.0.0"
+description = "Repo for review - fully code will be released if accepted"
+requires-python = ">=3.9"
+dependencies = [
+    "torch",
+    "numpy",
+    "matplotlib",
+    "bayesian-optimization",
+    "tiny-cuda-nn",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "black", "ruff"]
