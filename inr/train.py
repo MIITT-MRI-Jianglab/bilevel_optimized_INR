@@ -31,6 +31,6 @@ def objective_function(lr, wd_enc, wd_mlp, eps, per_level_scale):
     """
     class _Args:
         n_steps = 100
-        date = "dummy"
+        experiment_name = "dummy"
         config = "config.json"
     return -train_mlp(lr, wd_enc, wd_mlp, eps, per_level_scale, _Args())
