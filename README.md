@@ -12,7 +12,6 @@ For peer-review purpose, only the project layout and public APIs are shown here;
 bilevel_optimized_INR/
 ├── pyproject.toml              # package metadata & deps
 ├── README.md                  
-│
 ├── inr/                        
 │   ├── __init__.py            
 │   ├── config.py               # load JSON / commentJSON configs
@@ -22,6 +21,5 @@ bilevel_optimized_INR/
 │   └── utils/                  
 │       ├── __init__.py
 │       └── utils.py            # all utility functions 
-│
 ├── bilevel_inr.py         # Bilevel optimized INR script
 └── bilevel_mbir.py        # Bilevel optimized MBIR script
