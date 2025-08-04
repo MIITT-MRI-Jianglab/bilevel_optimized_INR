@@ -4,7 +4,7 @@ Code repo for *Bilevel Optimized Implicit Neural Representation for Scan-Specifi
 
 A preprint is available at **https://arxiv.org/abs/2502.21292**
 
-For peer-review purpose only the project layout and public APIs are shown here; full code will be public upon manuscript acceptance.
+For peer-review purpose, only the project layout and public APIs are shown here; full code will be public upon manuscript acceptance.
 
 ## Repo layout
 
@@ -25,7 +25,3 @@ bilevel_optimized_INR/
 │
 ├── bilevel_inr.py         # Bilevel optimized INR script
 └── bilevel_mbir.py        # Bilevel optimized MBIR script
-
-
-
-
