@@ -3,7 +3,8 @@
 Code for *Bilevel Optimized Implicit Neural Representation for Scan-Specific
 Accelerated MRI Reconstruction*.
 
-Preprint: **https://arxiv.org/abs/2502.21292**
+Paper: **https://doi.org/10.1109/TMI.2026.3686724** (IEEE TMI, 2026)
+Preprint: https://arxiv.org/abs/2502.21292
 
 ## Repo layout
 
